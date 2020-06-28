@@ -1,0 +1,8 @@
+I am Habib. You're a biba.
+Ok
+ 9/11/2001 - date US
+09.05.1945 - date RU
+200 000 000 - Number RUS
+100,000,000 - Number US
+5,01 ₽ - Currency русская
+$5 - Валюта American
